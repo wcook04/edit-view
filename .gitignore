@@ -1,0 +1,4 @@
+__pycache__/
+.lake/
+*.pyc
+boundary/results/boundary-dry/
